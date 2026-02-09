@@ -1,0 +1,39 @@
+Zhuoyuan Lin
+
+Objective 
+Seeking a software engineering position, with most of experience in Web Application.
+
+Skills
+Specialties: Single Page Application, Web Front-end Development, RESTful Service
+Languages: JavaScript(advanced), HTML5/CSS3(advanced),  Python(familiar),  Java(familiar)
+Technologies: Angular.js(advanced), jQuery(advanced), Node.js(familiar), MongoDB/MySQL(basic)
+OS: OS X, Windows, Linux(CentOS)                        Source Control: Git
+
+Experience 
+Google, Sunnyvale, CA                            						Mar 2015 - Feb 2017
+Web Developer (Contract)
+Worked in Google Cloud Team supplying web application for marketing.
+Participated in front-end development for couples of crucial commercial websites with Angular.js and Closure Library.
+Implemented an asynchronous web application with advanced search, filter, category navigation.
+Implemented a search result pagination algorithm to dynamically render data from BigQuery.
+Optimized website performance and browser compatibility.
+
+Cinequest, Inc. San Jose, CA                                            				 Jun 2014 - Dec 2014
+Web Developer Intern
+Designed and implemented website for Cinequest Film Festival by HTML5/CSS3 and jQuery.
+Implemented XML data feeds for mobile web with PHP and MySQL.
+
+
+Project
+CRM Web App — Full-stack JavaScript with MEAN                       			        Jan 2015 
+An e-commerce web application with contact management system, login system and order management system, can be deployed on cloud platforms with good scalability. 
+Implemented front-end and back-end integration by Angular.js framework.
+Implemented back-end RESTful web service by Node.js, Express.js, MongoDB and Mongoose.
+
+
+Education
+M.S. in Computer Science & Engineering                  			                                Dec 2014
+Santa Clara University, Santa Clara, CA
+
+B.S. in Mathematic & Applied Mathematic                 				                     Jul 2011
+Guangzhou University, Guangzhou, China
