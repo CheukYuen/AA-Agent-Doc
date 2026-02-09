@@ -10,6 +10,9 @@ Technologies: Angular.js(advanced), jQuery(advanced), Node.js(familiar), MongoDB
 OS: OS X, Windows, Linux(CentOS)                        Source Control: Git
 
 Experience 
+
+PA Bank: Dec 2017 - now
+
 Google, Sunnyvale, CA                            						Mar 2015 - Feb 2017
 Web Developer (Contract)
 Worked in Google Cloud Team supplying web application for marketing.
